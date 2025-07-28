@@ -1,0 +1,8 @@
+node_modules
+.vercel
+build
+/lib
+results.json
+artifacts.json
+artifacts/
+report.html
